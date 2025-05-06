@@ -1,6 +1,6 @@
 # 5c-coursework
 
-| Name     | Student ID | GitHub Username | Contribution Term 1 (%) | Contribution Term 2 (&) |
+| Name     | Student ID | GitHub Username | Contribution Term 1 (%) | Contribution Term 2 (%) |
 |----------|------------|-----------------|-------------------------|-------------------------|
 | Nataniel | up2178807  | natsworkspace   | 16.7                    | 20                      |
 | Farid    | up2115719  | Up2115719       | 16.7                    | 0                       |
