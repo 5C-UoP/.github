@@ -8,4 +8,4 @@
 | Marie    | up2246633  | sevmern         | 16.7                    | 20                      |
 | Sam      | up2198694  | wotanut         | 16.7                    | 20                      |
 | Matt     | up2110727  | ebmatt          | 16.7                    | 20                      |
-
+| Azizbek  | up2159914  | rakh1mov919     | 0                       | 0                       |
